@@ -1,7 +1,7 @@
 docker_repo: docker-ce.repo
 
 # Docker user
-docker_user: jm
+docker_user: halog
 
 # WEB SERVER
 web_docker_img_name: web
